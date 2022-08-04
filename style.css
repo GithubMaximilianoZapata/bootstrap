@@ -1,0 +1,62 @@
+
+/* html {
+    font-size: 62.5%;
+} */
+body {
+    background-image: url(../coachingzapataProyecto/img/fondopantalla8.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.colorNav {
+    color: black;
+}
+
+/*  CODIGO FORMULARIO DE CONTACTO FOOTER */
+textarea {
+    resize: none;
+    background-image: url(../coachingzapataProyecto/img/fondopantalla8.jpg);
+    font-size: 1.4rem black;
+    border: 0.2rem solid black;
+    width: 20rem;
+}
+
+input {
+    background-image: url(../coachingzapataProyecto/img/fondopantalla8.jpg);
+    font-size: 1.4rem black;
+    border: 0.2rem solid black;
+    width: 20rem;
+}
+
+button {
+    font-size: 1.4rem black;
+    border: 0.2rem solid black;
+    width: 20rem;
+    background-image: url(../coachingzapataProyecto/img/fondopantalla8.jpg);
+}
+
+#youtube, #blog, #wsp {
+    color: black;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    list-style: none;
+    
+}
+
+#youtube:hover,
+#blog:hover {
+    color: rgb(14, 14, 126);
+    text-decoration: underline;
+}
+.contac {
+    font-family: "Oswald300";
+    font-size: 1rem;
+    font-weight: bold;
+    list-style: none;}
+section div ul{
+    list-style: none;
+    }

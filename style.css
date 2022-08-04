@@ -3,7 +3,7 @@
     font-size: 62.5%;
 } */
 body {
-    background-image: url(../coachingzapataProyecto/img/fondopantalla8.jpg);
+    background-image: url(./img/fondopantalla8.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -17,14 +17,14 @@ body {
 /*  CODIGO FORMULARIO DE CONTACTO FOOTER */
 textarea {
     resize: none;
-    background-image: url(../coachingzapataProyecto/img/fondopantalla8.jpg);
+    background-image: url(./img/fondopantalla8.jpg);
     font-size: 1.4rem black;
     border: 0.2rem solid black;
     width: 20rem;
 }
 
 input {
-    background-image: url(../coachingzapataProyecto/img/fondopantalla8.jpg);
+    background-image: url(./img/fondopantalla8.jpg);
     font-size: 1.4rem black;
     border: 0.2rem solid black;
     width: 20rem;
@@ -34,7 +34,7 @@ button {
     font-size: 1.4rem black;
     border: 0.2rem solid black;
     width: 20rem;
-    background-image: url(../coachingzapataProyecto/img/fondopantalla8.jpg);
+    background-image: url(./img/fondopantalla8.jpg);
 }
 
 #youtube, #blog, #wsp {

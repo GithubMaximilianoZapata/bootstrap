@@ -1,7 +1,5 @@
 
-/* html {
-    font-size: 62.5%;
-} */
+
 body {
     background-image: url(./img/fondopantalla8.jpg);
     background-attachment: fixed;
@@ -10,8 +8,42 @@ body {
     background-size: cover;
 }
 
+h1 {
+    font-family: "Arima", serif;
+    font-style: italic;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h2 {
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
 .colorNav {
     color: black;
+    font-family: "Oswald 300", sans-serif;
+    font-size: 20px;
+    padding: 10px;
+        
+}
+p {
+    font-family: "Roboto Ital 100", sans-serif;
+    padding-right: 20px;
+}
+.styleImg{
+    border: 3px solid black;
+    border-radius: 3%;
+
+}
+section {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.margen{
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 /*  CODIGO FORMULARIO DE CONTACTO FOOTER */

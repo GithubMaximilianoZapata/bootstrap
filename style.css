@@ -121,5 +121,23 @@ section div ul{
     h2, .contac{
         margin-top: 20px;
     }
+    h2 {
+        font-weight: normal;
+        margin-bottom: 20px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    .colorNav {
+        color: black;
+        font-family: fantasy;
+        font-size: 22px;
+        padding: 10px;
+            
+    }
+    
+    .colorNav:hover {
+        color: rgb(117, 23, 23);
+                
+    }
       
 }

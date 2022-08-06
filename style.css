@@ -1,11 +1,15 @@
 
 
 body {
-    background-image: url(./img/fondopantalla8.jpg);
+    background-image: url(./img/fondopantalla8.jpg); 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.aguila{
+    width: 55%;
+    margin: 0 auto;
 }
 
 h1 {
@@ -92,3 +96,17 @@ button {
 section div ul{
     list-style: none;
     }
+
+
+/* PROPIEDADES PARA MEDIAQUERIES */
+
+@media screen and (max-width: 768px) {
+    .mobile1{
+        flex-direction: column-reverse;     
+    }
+    h2, .contac{
+        margin-top: 20px;
+    }
+   
+    
+}
